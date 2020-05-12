@@ -3,7 +3,10 @@
 # Project Info
 
 Date : 2020/4/6 ~ 2020/5/10
-프로젝트 목표: 해외의 감염병이 국내로 유입될 위험도 산출 모델링
+
+프로젝트 목표: 
+- 코로나 바이러스 감염 확산 방지와 바이러스 종식을 위한 모델링 개발
+- 해외로 부터 유입된 코로나 바이러스 확진자를 모델로 예측
 
 # Dependency
 
@@ -14,11 +17,32 @@ Date : 2020/4/6 ~ 2020/5/10
 - scipy                     1.4.1
 - seaborn                   0.10.0
 - matplotlib                3.2.1
+- xgboost                   1.0.2
+- tqdm                      4.42.1
 
 # Authors
 
-[김민수], [김송일](https://github.com/camelia13), [김승훈], [박병수](https://github.com/Hinterhalter), [이선화] 
+[박병수](https://github.com/Hinterhalter)
 
 ---------------------
 
+# Summary
+
+Time-Series Data Prediction with PyTorch LSTM
+
+  Prediction Result
+  
+  - __4/22 ~ 5/5__
+  ![image](https://user-images.githubusercontent.com/32046460/81642957-8f960900-945f-11ea-92c9-535cf187d72a.png)
+  
+  - __5/6 ~ 5/19__
+  ![image](https://user-images.githubusercontent.com/32046460/81643010-a63c6000-945f-11ea-8092-dc6112a39199.png)
+
+
 # TO DO
+
+- Models:
+  - Gradient Boosting
+  - Bagging, Boosting
+ 
+- Data Visualization
