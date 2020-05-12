@@ -42,7 +42,11 @@ Time-Series Data Prediction with PyTorch LSTM
 # TO DO
 
 - Models:
-  - Gradient Boosting
-  - Bagging, Boosting
+  - Supervised:
+    - Gradient Boosting
+    - Bagging, Boosting
+  - Unsupervised:
+    - KNN
+    - K-means
  
 - Data Visualization
