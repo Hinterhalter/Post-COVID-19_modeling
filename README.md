@@ -5,8 +5,11 @@
 Date : 2020/4/6 ~ 2020/5/10
 
 프로젝트 목표: 
+
 - 코로나 바이러스 감염 확산 방지와 바이러스 종식을 위한 모델링 개발
 - 해외로 부터 유입된 코로나 바이러스 확진자를 모델로 예측
+- [Project Portfolio](https://data-panic.tistory.com/33)
+
 
 # Dependency
 
